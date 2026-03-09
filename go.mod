@@ -1,4 +1,4 @@
-module github.com/denivladislav/hexlet-go
+module github.com/denivladislav/hexlet-go/v2
 
 go 1.26.1
 

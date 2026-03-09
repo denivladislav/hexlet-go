@@ -1,6 +1,6 @@
 package greeting
 
-var greeting string = "Golang for Brave!"
+var greeting string = "Hexlet and Golang for Brave!"
 
 func Hello() string {
 	return greeting
